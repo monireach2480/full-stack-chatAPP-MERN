@@ -39,7 +39,8 @@ To run this project locally, follow these steps:
 2. Install dependencies:
    ```sh
    npm install
-   cd client && npm install
+   cd frontend && npm install
+   cd backend && npm install
    ```
 3. Set up environment variables:
    - Create a `.env` file in the root and add necessary configurations (e.g., database URI, JWT secret).
